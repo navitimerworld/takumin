@@ -1,0 +1,9 @@
+database:
+    driver: pdo_mysql
+    host: 127.0.0.1
+    dbname: eccube_db
+    port: 
+    user: root
+    password : vagrant
+    charset: utf8
+    defaultTableOptions: { collate: utf8_general_ci }
